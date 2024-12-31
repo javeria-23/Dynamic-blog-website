@@ -1,7 +1,7 @@
 import React from "react";
 import BlogCard from "../components/BlogCard";
-import { title } from "process";
-import id from "@/app/posts/[id]/page";
+
+
 export default function Mega() {
   const posts = [
     {

@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, CardContent, CardTitle } from "../components/ui/card";
-import { text } from "stream/consumers";
+
 interface BlogCardProps {
   post: {
     id: string;
